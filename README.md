@@ -1,1 +1,1 @@
-# hello-worldEste repositorio es para mi act  9 de la materia de pensamiento computacional orientado a objetos.
+# hello-worldEste repositorio para relfexionar que el  uso de estas herramientas es una cosa muy positiva, ya que nos ayuda de manera muy grande para poder trabajar mas ordenado y limpio .
